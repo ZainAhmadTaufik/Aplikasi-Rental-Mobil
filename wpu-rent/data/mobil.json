@@ -1,0 +1,42 @@
+{
+	"mobil" :
+	[
+		{
+			"nama" : "Honda Jazz",
+			"deskripsi" : "Honda Jazz adalah mobil hatchback 5 pintu produksi pabrikan otomotif Jepang Honda Motor Company. Honda Jazz pertama kali diperkenalkan pada 2001.",
+			"harga" : "120000",
+			"gambar" : "hondajazz.jpg"
+		},
+		{
+			"nama" : "Kijang Innova",
+			"deskripsi" : "Dibekali dengan mesin 2.0 liter (136 hp) 1TR-FE VVT-i dan 2.7 liter 2TR-FE VVT-i untuk mesin bensin, serta 2.5 liter (102 hp) 2KD-FTV D-4D common rail direct 4-stroke diesel injection turbocharger tanpa intercooler untuk mesin dieselnya",
+			"harga" : "120000",
+			"gambar" : "kijanginnova.jpg"
+		},
+		{
+			"nama" : "Suzuki APV",
+			"deskripsi" : "Suzuki APV adalah mobil berjenis Van yang diproduksi oleh Suzuki di Indonesia oleh PT. Indomobil Suzuki International. Menggunakan mesin 1.5L atau 1.6L bertenaga 92 hp",
+			"harga" : "115000",
+			"gambar" : "suzukiapv.jpg"
+		},
+		{
+			"nama" : "Toyota Veloz",
+			"deskripsi" : "Ditenagai dua pilihan mesin Bensin berkapasitas 1496 cc. Avanza Veloz tersedia dengan transmisi Manual and Otomatis tergantung variannya. Avanza Veloz adalah MPV 7 seater dengan panjang 4200 mm, lebar 1660 mm, wheelbase 2655 mm. serta ground clearance 200 mm ",
+			"harga" : "125000",
+			"gambar" : "toyotaveloz.jpg"
+		},
+		{
+			"nama" : "Toyota Calya",
+			"deskripsi" : "Disediakan ruang kabin luas yang sanggup menampung penumpang hingga 7 orang sekaligus sehingga membuat ruang gerak penumpang anda menjadi lebih leluasa dan bebas. Selain itu, kelebihan Toyota Calya yang utama yakni pada keiritan dan efisiensi konsumsi bahan bakarnya ",
+			"harga" : "130000",
+			"gambar" : "toyotacalya.jpg"
+		},
+		{
+			"nama" : "Toyota Sienta",
+			"deskripsi" : "Toyota Sienta adalah minivan kecil 5 pintu yang diproduksi oleh Toyota untuk pasar Jepang dan Indonesia. Diperkenalkan pertama kali pada bulan September 2003, mobil ini mempunyai 7 tempat duduk meskipun ukuran bodinya sangat kecil.",
+			"harga" : "110000",
+			"gambar" : "toyotasienta.jpg"
+		}
+
+	]
+}
