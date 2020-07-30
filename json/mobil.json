@@ -1,0 +1,57 @@
+[
+	{
+	"id_mobil" : "1",
+	"no_plat" : "BM 0001 KL",
+	"jenis" : "mini MPV",
+	"merk" : "Honda Jazz",
+	"tahun_buat" : "2011",
+	"warna" : "Hitam",
+	"harga_sewa" : "120000"
+	},
+	{
+	"id_mobil" : "2",
+	"no_plat" : "AB 0002 XW",
+	"jenis" : "MPV",
+	"merk" : "Kijang Innova",
+	"tahun_buat" : "2013",
+	"warna" : "Hitam",
+	"harga_sewa" : "120000"
+	},
+	{
+	"id_mobil" : "3",
+	"no_plat" : "BK 0003 CW",
+	"jenis" : "MPV",
+	"merk" : "Suzuki APV",
+	"tahun_buat" : "2014",
+	"warna" : "Hitam",
+	"harga_sewa" : "115000"
+	},
+	{
+	"id_mobil" : "4",
+	"no_plat" : "AB 0004 AF",
+	"jenis" : "MPV",
+	"merk" : "Toyota Veloz",
+	"tahun_buat" : "2011",
+	"warna" : "Hitam",
+	"harga_sewa" : "125000"
+	},
+	{
+	"id_mobil" : "5",
+	"no_plat" : "AB 0005 DF",
+	"jenis" : "MPV",
+	"merk" : "Toyota Calya",
+	"tahun_buat" : "2015",
+	"warna" : "Merah",
+	"harga_sewa" : "130000"
+	},
+	{
+	"id_mobil" : "6",
+	"no_plat" : "AB 0006 GF",
+	"jenis" : "MPV",
+	"merk" : "Toyota Sienta",
+	"tahun_buat" : "2015",
+	"warna" : "Putih",
+	"harga_sewa" : "110000"
+	}
+
+]

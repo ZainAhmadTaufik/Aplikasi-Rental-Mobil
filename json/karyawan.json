@@ -1,0 +1,17 @@
+[
+{
+	"id_karyawan" : "1",
+	"nama_karyawan" : "hengki",
+	"alamat_karyawan" : "kepri",
+	"jk" : "laki laki",
+	"no_telp" : "081234674365"
+},
+{
+	"id_karyawan" : "2",
+	"nama_karyawan" : "dana",
+	"alamat_karyawan" : "palembang",
+	"jk" : "laki laki",
+	"no_telp" : "087898787766"
+}
+
+]

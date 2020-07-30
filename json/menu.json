@@ -1,0 +1,54 @@
+{
+	"menu" :
+	[
+{
+	"kode_makanan" : "rocket",
+	"nama" : "rocket 1",
+	"isi" : ["nasi", "sayap", "es teh"],
+	"harga" : "13000",
+	"gambar" : "rocket01.jpg"
+},
+{
+	"kode_makanan" : "rocket",
+	"nama" : "rocket 7",
+	"isi" : ["nasi", "dada atas", "es teh"],
+	"harga" : "15000",
+	"gambar" : "rocket07.jpg"
+},
+{
+	"kode_makanan" : "cheesy",
+	"nama" : "chessy 1",
+	"isi" : ["nasi", "sayap", "es teh"],
+	"harga" : "13000",
+	"gambar" : "cheezy1.jpg"
+},
+{
+	"kode_makanan" : "cheesy",
+	"nama" : "chessy 3",
+	"isi" : ["nasi", "paha", "es teh"],
+	"harga" : "14000",
+	"gambar" : "cheezy3.jpg"
+},
+{
+	"kode_makanan" : "sehat",
+	"nama" : "sehat 1",
+	"isi" : ["nasi", "sayap", "es milo"],
+	"harga" : "15000",
+	"gambar" : "sehat1.jpg"
+},
+{
+	"kode_makanan" : "sehat",
+	"nama" : "sehat 2",
+	"isi" : ["nasi", "dada", "es milo"],
+	"harga" : "13000",
+	"gambar" : "sehat2.jpg"
+},
+{
+	"kode_makanan" : "sehat",
+	"nama" : "sehat 3",
+	"isi" : ["burger", "es milo"],
+	"harga" : "14000",
+	"gambar" : "sehat3.jpg"
+}
+]
+}
